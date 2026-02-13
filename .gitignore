@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+*.sln
+
